@@ -13,6 +13,7 @@ Typescript Node.js backend boilerplate code
 - [x] [EditorConfig](https://editorconfig.org/) - file format
 - [x] [Volta](https://volta.sh/) - Node.js version manager
 - [x] [GitHub Actions](https://github.com/features/actions) - GitHub CI/CD
+- [x] [yargs](https://github.com/yargs/yargs) - cli parser
 - [ ] [Parcel](https://github.com/parcel-bundler/parcel) - modern JS build tool
 
 ## Install Deps
