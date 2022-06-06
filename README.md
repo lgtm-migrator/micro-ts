@@ -37,3 +37,4 @@ npm install
 - [convert to ESM](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c)
 - [dynamic import()](https://v8.dev/features/dynamic-import)
 - [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
+- [esm-nodejs](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/#esm-nodejs)
