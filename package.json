@@ -19,7 +19,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "@types/yargs": "^17.0.10",
+    "@types/yargs": "^17.0.13",
     "dayjs": "^1.11.4",
     "tslib": "^2.4.0",
     "yargs": "^17.5.1"
